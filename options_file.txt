@@ -1,0 +1,1 @@
+{"infinte_border": true, "draw_grid": true, "color_snake": "YELLOW1", "num_color_snake_selected": 3, "snake_speed": "x1"}
