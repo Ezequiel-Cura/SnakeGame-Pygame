@@ -1,0 +1,11 @@
+assests/
+build/
+
+# ignore pycahce
+__pycache__/
+# ignore nested pycahce
+**/__pycache__/
+
+dist/
+main.spec/
+options_file.txt
