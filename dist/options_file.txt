@@ -1,1 +1,0 @@
-{"infinte_border": true, "draw_grid": false}
